@@ -1,0 +1,17 @@
+﻿body{
+	margin:0;
+	}
+
+#main{
+	background-image: url("images/top.jpg");
+	background-size: cover;
+	text-align:right;
+	}
+
+p{
+	text-align:right;
+	}
+
+ul{
+	margin-right:55px;
+	}
